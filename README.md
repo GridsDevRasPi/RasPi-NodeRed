@@ -45,7 +45,7 @@ $ sudo systemctl enable nodered.service
 
 **หากต้องการปิดใช้งานบริการให้เรียกใช้คำสั่ง**
 ~~~
-sudo systemctl disable nodered.service
+$ sudo systemctl disable nodered.service
 ~~~
 
 ### เมื่อ Node-RED ทำงานคุณสามารถเข้าถึงตัวแก้ไขในเบราว์เซอร์
